@@ -1,0 +1,12 @@
+div {
+    background-color: #696969;
+}
+p {
+    color: #ffffff;
+    line-height: 1.6;
+}
+.box {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
